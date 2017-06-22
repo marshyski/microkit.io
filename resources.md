@@ -1,6 +1,6 @@
 # Go Resources
 
-
+### Go Core
 
 **Language Specification**
 
@@ -8,25 +8,39 @@
 
 **Standard Library**
 
-[https://golang.org/pkg](https://golang.org/pkg)
+[http://godoc.org/-/go](http://godoc.org/-/go)
 
 **Official Blog**
 
 [https://blog.golang.org](https://blog.golang.org/)
 
-**Memory Model**
+**Best List of Go Resources**
 
-[https://golang.org/ref/mem](https://golang.org/ref/mem)
+[https://github.com/golang/go/wiki](https://github.com/golang/go/wiki)
 
-**Defer, Panic, and Recover**
+### Community
 
-[https://blog.golang.org/defer-panic-and-recover](https://blog.golang.org/defer-panic-and-recover)
+**Awesome Go**
 
-**Go Training**
+[https://github.com/avelino/awesome-go](https://github.com/avelino/awesome-go)
 
-[https://github.com/ardanlabs/gotraining](https://github.com/ardanlabs/gotraining)
+**Curated List of Go Design Patterns, Recipes and Idioms**
+
+[https://github.com/tmrts/go-patterns](https://github.com/tmrts/go-patterns)
+
+**Trending Go Projects**
+
+[https://github.com/trending/go](https://github.com/trending/go)
+
+### Books
 
 **Building Web Applications with Golang**
 
 [https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
+
+### Training
+
+**Go Training**
+
+[https://github.com/ardanlabs/gotraining](https://github.com/ardanlabs/gotraining)
 
