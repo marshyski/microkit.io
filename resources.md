@@ -1,6 +1,6 @@
-# Go Resources
+# Golang Resources
 
-Most of the resources on this page are meant to be the minimum requirements to bookmark.  In the curated lists you'll find books, videos, articles, design, internals and libraries to get a deeper dive into the Go programming language. 
+Most of the resources on this page are meant to be the minimum requirements to bookmark.  In the curated lists you'll find books, videos, articles, design, internals and libraries to get a deeper dive into the Go programming language.
 
 ### Go Team
 

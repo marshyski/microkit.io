@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-  * [Go Resources](resources.md)
+  * [Golang Resources](resources.md)
   * [Microservices Resources](microservices-resources.md)
   * [What Is Golang](what-is-golang.md)
   * [What Is Microservices](what-is-microservices.md)
