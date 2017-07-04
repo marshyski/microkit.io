@@ -1,4 +1,4 @@
-# Golang Microservices Deployment
+# Deploying Golang Microservices
 
 This lean book will be a guide and list of resources to develop and deploy microservices in [Golang](https://golang.org/).  I'm catering to developers building services for enterprises that want to adopt Golang.  Skimming the chapters you should get a better idea of toolkits, frameworks and deployment practices that better suit you.
 
