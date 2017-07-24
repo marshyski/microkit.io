@@ -1,11 +1,11 @@
 # Summary
 
 * [Introduction](README.md)
-  * [Golang Resources](resources.md)
-  * [Microservices Resources](microservices-resources.md)
   * [What Is Golang](what-is-golang.md)
+  * [Golang Resources](resources.md)
+  * [Golang Kits](golang-kits.md)
   * [What Is Microservices](what-is-microservices.md)
-  * What Is A Kit
+  * [Microservices Resources](microservices-resources.md)
   * [Why Is Golang Perfect for Microservices](why-is-golang-perfect-for-microservices.md)
 * [Development Environment](go-development.md)
   * [Text Editors and IDEs](go-development/text-editors-and-ides.md)
