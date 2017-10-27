@@ -4,8 +4,6 @@
 >
 > [https://en.wikipedia.org/wiki/Microservices](https://en.wikipedia.org/wiki/Microservices)
 
-
-
 Microservices have different design patterns based on the workloads and needs of business capabilities.  Those patterns are as followed:
 
 **Ambassador** - a smart proxy to offload common client connectivity tasks such as routing, generating tracing-ID and authentication in a language agnostic way.
@@ -14,19 +12,9 @@ Microservices have different design patterns based on the workloads and needs of
 
 **Backends for Frontends** - Separate backend services for different types of clients or customer segments. That way, a single backend service doesn’t need to handle all data formats from a data source, or conflicting requirements of various client types. This pattern can help keep each services simple, by minimizing maintenance on the frontends.
 
-**Bulkhead** - isolates critical resources, such as connection pool, memory, and CPU, for each workload or service. By using bulkheads, a single workload \(or service\) can’t consume all of the resources, starving others. This pattern increases the resiliency of the system by preventing cascading failures caused by one service.
+**Bulkhead** - isolates system resources, such as connection pool, memory, and CPU, for each workload or service. By using bulkheads, a single service can’t consume all of the resources, starving others. This pattern increases the resiliency of the system by preventing cascading failures caused by one service in a shared environment.
 
-**Gateway Aggregation** - aggregates requests to multiple individual microservices into a single request, reducing chattiness between consumers and services.
-
-**Gateway Offloading** - enables each microservice to offload shared service functionality, such as the use of SSL certificates, to an API gateway.
-
-**Gateway Routing** - routes requests to multiple microservices using a single endpoint, so that consumers don't need to manage many separate endpoints.
-
-**Sidecar** - deploys helper components of an application as a separate container or process to provide isolation and encapsulation.
+**Sidecar** - a separate process or container to help a service provide isolation and encapsulation of components.
 
 **Strangler **- supports incremental migration by gradually replacing specific pieces of functionality with new services.
-
-
-
-
 
